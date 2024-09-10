@@ -63,3 +63,6 @@ You can check these weights https://drive.google.com/file/d/1f-Co64ehgq4uddcQm1a
 
 ## Infer in video 
 ![](imgs/video_infer.gif) 
+
+![image](https://github.com/user-attachments/assets/83fc2a83-302e-4f6c-94a7-654890b274cc)
+
